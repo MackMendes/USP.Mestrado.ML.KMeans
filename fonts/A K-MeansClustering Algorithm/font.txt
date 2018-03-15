@@ -1,0 +1,17 @@
+https://www.labri.fr/perso/bpinaud/userfiles/downloads/hartigan_1979_kmeans.pdf
+
+
+Hartigan, John A., and Manchek A. Wong. "Algorithm AS 136: A k-means clustering algorithm." Journal of the Royal Statistical Society. Series C (Applied Statistics) 28.1 (1979): 100-108.
+
+
+
+@article{hartigan1979algorithm,
+  title={Algorithm AS 136: A k-means clustering algorithm},
+  author={Hartigan, John A and Wong, Manchek A},
+  journal={Journal of the Royal Statistical Society. Series C (Applied Statistics)},
+  volume={28},
+  number={1},
+  pages={100--108},
+  year={1979},
+  publisher={JSTOR}
+}
